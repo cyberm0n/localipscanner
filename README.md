@@ -7,5 +7,5 @@ Tested On:
 
 Setup:
 
-# pip install -r requirements.txt
-# python localipscanner.py
+###### pip install -r requirements.txt
+###### python localipscanner.py
